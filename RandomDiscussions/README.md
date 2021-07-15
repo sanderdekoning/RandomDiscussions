@@ -6,7 +6,7 @@
 2. Consider a ​​GradientLayer (let's call it ​gl​) displaying a red to blue vertical gradient. Write some code to animate ​gl so that it smoothly transitions from its current state to a green to yellow ​horizontal gradient. ​How would you allow scrubbing the animation using a ​UISlider​ control?
 Note:​ if the animation can't be controlled, maybe time can be bent.
 
-3. ​Write some code replicating the “counter effect” shown in the video (attached to the email). This counter component displays a settable number. When tapping on it it starts spinning in a slot machine-like manner. The written code should be simple and easy to
+3. ​Write some code replicating the “counter effect” shown in the video. This counter component displays a settable number. When tapping on it it starts spinning in a slot machine-like manner. The written code should be simple and easy to
 integrate in a project.
 
 
